@@ -838,7 +838,7 @@ var config = {
     id: 'belarus',
     alignment: 'right',
     hidden: false,
-    title: '<span class="italics-heading"<center>Demonstrations have taken place in both major cities and smaller towns across Belarus</center></span>',
+    title: '<span class="italics-heading"<center>Protests have taken place in both major cities and smaller towns across Belarus</center></span>',
     image: 'belarus-legend.png',
     description: '<center>Major demonstrations across Belarus have continued since the August 2020 election. Demonstrators have expressed anger over the falsification of election results and have demanded the resignation of President Alexander Lukashenko. They have demanded new elections be held and the prosecution of members of the security services involved in violence against demonstrators. The Lukashenko regime has refused to give in to demands while brutally cracking down on demonstrators. It remains unclear whether Russia will continue to support Lukashenko in 2021, especially following months of political and economic turmoil.<br><br><b>The map to the right shows all protests and riots in Belarus during 2020.</b></center>',
     location: customMapPosition({
