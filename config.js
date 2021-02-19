@@ -733,7 +733,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px;text-align:center; font-style:bold; color:black;"><center>Organized political violence increased in in Al-Jawf (44%) and Marib (733%) in 2020</center></span>',
-            image: 'images/yemen-ma20-legend.png',
+            image: 'yemen-ma20-legend.png',
             description: '<center><b>The map to the right shows organized political violence events (Battles, Explosions/Remote violence, Violence against civilians) in the Al-Jawf and Marib administrative regions of Yemen during 2020. The Al-Jawf and Marib administrative regions are highlighted in light grey.</b></center>',
             location: customMapPosition({
                 center: [45.49023, 15.90000],
