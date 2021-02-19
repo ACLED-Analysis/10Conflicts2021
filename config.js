@@ -805,7 +805,7 @@ var config = {
     id: 'belarus-title',
     alignment: 'right',
     hidden: false,
-    title: '<span class="country-heading"><center>Belarus</center></span><span class="italics-heading"></br><center>High risk of destabilization as regime, demonstrator, and Russian interests clash</center></span>',
+    title: '<span class="country-heading"><center>Belarus</center></span><span class="italics-heading"></br><center>High risk of instability as regime, demonstrator, and Russian interests clash</center></span>',
     description: '',
     location: customMapPosition({
         center: [27.79373, 53.69264],
