@@ -189,7 +189,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span class="italics-heading"><center>Violence against civilians concentrated in southern Colombia in 2020</center></span>',
-            image: 'images/colombia-vac-legend.png',
+            image: 'colombia-vac-legend.png',
             description: '<center>In 2016, the five decades-long conflict between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) ended with the signing of a comprehensive Peace Agreement. Although initially celebrated as a milestone, the government’s inability to implement the treaty’s guidelines has brought significant challenges. The power vacuum left by the dismantling of the FARC led to the expansion of other groups, such as the National Liberation Army (ELN) and the Gulf Clan, a former paramilitary group also known as the Gaitanistas. After facing decades of violence, Colombia’s civilians have been put at further risk due to the lack of government action.<br><br><b>The map to the right shows violence against civilians events in Colombia during 2020.</b></center>',
             location: customMapPosition({
                 center: [-71.89518, 4.64478],
