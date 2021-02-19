@@ -27,7 +27,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false,
     title: '<h1 style="background-color: white; opacity: 0.9;font-size:200px; font-style:bold; margin-top:25px; margin-bottom:0px; color: black; line-height: 200px;">10 Conflicts</h1> <h1 style="font-size:80px; margin-left:200px; text-align:center; padding-right:20px; background-color: #C95200; font-style:italic; margin-top:5px; line-height:100px; margin-bottom:0px;">to Worry About in 2021</h1>',
-    subtitle: '<center>An interactive review of our special report on 10 conflicts that are likely to worsen or evolve over the course of the year.<br><i>For the best experience, please view in fullscreen at a 1024x768 resolution or higher.</i></center>',
+    subtitle: '<center>An interactive map of ACLED data on 10 conflicts that are likely to worsen or evolve over the course of the year.<br><i>For the best experience, please view in fullscreen at a 1024x768 resolution or higher.</i></center>',
     byline: 'Produced by ACLED Research Analyst Josh Satre with assistance from Curtis Goos and Adam Miller. <i/>Based on the ACLED special report: <a href="https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/">10 Conflicts to Worry About in 2021</a></i>',
     footer: 'Source: ©ACLED 2021 Access all ACLED data here: <a href="www.acleddata.com">www.acleddata.com</a> Access the full report here:<a href="https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/">https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/</a>',
 
