@@ -26,7 +26,7 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: '<h1 style="background-color: white; opacity: 0.9;font-size:200px; font-style:bold; margin-top:25px; margin-bottom:0px; color: black; line-height: 200px;">10 Conflicts</h1> <h1 style="font-size:80px; margin-left:200px; text-align:center; padding-right:20px; background-color: #C95200; font-style:italic; margin-top:5px; line-height:100px; margin-bottom:0px;">to Worry About in 2020</h1>',
+    title: '<h1 style="background-color: white; opacity: 0.9;font-size:200px; font-style:bold; margin-top:25px; margin-bottom:0px; color: black; line-height: 200px;">10 Conflicts</h1> <h1 style="font-size:80px; margin-left:200px; text-align:center; padding-right:20px; background-color: #C95200; font-style:italic; margin-top:5px; line-height:100px; margin-bottom:0px;">to Worry About in 2021</h1>',
     subtitle: '<center>As political violence continues to erupt worldwide, ACLED reports on 10 conflicts worth watching in 2021.<br><i>For best viewing conditions, please view the map fullscreen in at least 1024x768 resolution on a 13" display or greater</i></center>',
     byline: 'Produced by ACLED Research Analyst Josh Satre with assistance from Curtis Goos and Adam Miller. <i/>Based on ACLED report <a href="https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/">10 Conflicts to Worry About in 2021</a></i>',
     footer: 'Source: © ACLED 2021 Data can be found here: <a href="www.acleddata.com">www.acleddata.com</a> This is based on the ACLED report located here:<a href="https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/">https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/</a>',
