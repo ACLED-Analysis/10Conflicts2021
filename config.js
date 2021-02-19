@@ -317,7 +317,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px; text-align:center; font-style:bold; color:black;"><center>Gangs have committed over 75% of all violence against civilians events and are responsible for nearly 90% of all reported civilian fatalities.</center></span>',
-            image: 'images/haiti-1-legend.png',
+            image: 'haiti-1-legend.png',
             description: '<center>Gang violence largely concentrated in impoverished neighborhoods in the capital, Port-au-Prince, is increasing as gangs continue to secure local support for political elites in exchange for resources and impunity from the law. President Jovenel Moise has been suspected of supporting gangs while attempting to further consolidate political control. Recently he has allegedly supported the G-9 gang coalition implicated in over a quarter of gang-related violence against civilians events.Lawyers, journalists, and members of the political opposition have been subject to targeted killings by gangs allegedly affiliated with President Moise.<br><br><b>The map to the right shows violence against civilians events in Haiti during 2020.</b></center>',
             location: {
                 center: [-74.03182, 18.99171],
@@ -410,7 +410,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px; text-align:center; font-style:bold; color:black;"><center>Organized political violence increased by 35% acoss the Sahel since 2019</center></span>',
-            image: 'images/sahel-legend.png',
+            image: 'sahel-legend.png',
             description: "<center>The jihadi militant insurgency led by Al Qaeda-affiliated Jama'at Nusrat al-Islam wal-Muslimin (JNIM) and Islamic State in the Greater Sahara (ISGS) continues to pose a major security threat in the region, particularly around the “the tri-state border” region of Burkina Faso, Mali, and Niger. Counter-insurgency operations by French and local state forces in Mali coupled by political instability and increasing jihadi-on-jihadi fighting are the primary drivers behind the region’s 35% increase in organized political violence compared to 2019.<br><br><b>The map to the right shows organized political violence events (Battles, Explosions/Remote violence, Violence against civilians) in the Sahel (Burkina Faso, Niger, Mali) during 2020.</b></center>",
             location: customMapPosition({
                 center: [-4.29098, 15.79492],
@@ -505,7 +505,7 @@ var config = {
     alignment: 'right',
     hidden: false,
     title: '<span style="font-size:50px; line-height:60px; text-align:center; font-style:bold; color:black;"><center>2020 was the deadliest year of the conflict in Cabo Delgado</center></span>',
-    image: 'images/moz-legend.png',
+    image: 'moz-legend.png',
     description: '<span style="color:black;background-color:white;"><center>2020 was a year of worsening insecurity in Mozambique, with the Islamist insurgency in Cabo Delgado escalating to unprecedented levels. The increasingly sophisticated insurgency, growing numbers of IDPs, and outbreaks of cholera and coronavirus have exposed the Mozambican government’s capacity constraints. The government has increasingly relied on support from private security forces and local militias to counter the insurgency. With insurgent incursions into neighboring Tanzania, the Cabo Delgado conflict risks becoming internationalized in 2021.<br><br><b>The map to the left shows all political disorder events in Mozambique during 2020.</b></center></span>',
     location: customMapPosition({
         center: [36.50129, -17.69012 ],
@@ -541,7 +541,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px; text-align:center; font-style:bold; color:black;"><center>Civilians in Cabo Delgado were targeted more than 330 times, with over 780 reportedly killed</center></span>',
-            image: 'images/moz-legend.png',
+            image: 'moz-legend.png',
             description: '<center><b>The map to the right shows all violence targeting civilians events (Explosions/Remote violence, Riots, Violence against civilians) in Cabo Delgado, Mozambique during 2020.</b></center>',
             location: customMapPosition({
                 center: [39.456320, -12.305060],
@@ -621,7 +621,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px; text-align:center; font-style:bold; color:black;"><center>Most organized political violence in Ethiopia has been concentrated in the northern Tigray region since the beginning of the Tigray conflict in November</center></span>',
-            image: 'images/ethiopia-legend.png',
+            image: 'ethiopia-legend.png',
             description: '<center>Regional ethnic groups continue to challenge the authority of the federal government and engage in inter-ethnic violence. The federal government has engaged in increasingly violent measures to maintain political and territorial control. Ethiopia’s conflict between the federal government and the former administration of the northern Tigray region, the Tigray People’s Liberation Front (TPLF), began in early November. While the regional conflict has subsided after four weeks of intense fighting, widespread displacement of millions throughout the Amhara and Tigray region and simmering inter-ethnic conflicts continue to present serious security and humanitarian challenges for the Abiy administration. <br><br><b> The map to the right shows all political disorder events in Ethiopia during 2020. The Tigray administrative region is highlighted in light grey.</b></center>',
             location: {
                 center: [39.49373, 9.16690],
@@ -704,7 +704,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px;text-align:center; font-style:bold; color:black;"><center>Reported fatalities decreased in 2020, but the year was still the third deadliest</center></span>',
-            image: 'images/yemen-legend.png',
+            image: 'yemen-legend.png',
             description: '<center>The civil war in Yemen continues to consist of multiple overlapping conflicts. In 2020, the conflict between the Houthis and pro-Hadi forces escalated, with the Houthis’ main objective being control of Marib city. Currently, frontlines are only several dozens of kilometers from the city. If Houthi forces reach the city, the humanitarian fallout might be devastating. Also, during 2020, negotiations to implement the Riyadh agreement between the STC and the Hadi government witnessed a breakthrough. In late December, the STC agreed to join a newly constituted Hadi government in exchange for allowing the government to move back into Aden.<br><br><b>The map to the right shows organized political violence events (Battles, Explosions/Remote violence, Violence against civilians) in Yemen during 2020.</b></center>',
             location: {
                 center: [45.49023, 15.77554],
@@ -839,7 +839,7 @@ var config = {
     alignment: 'right',
     hidden: false,
     title: '<span class="italics-heading"<center>Demonstrations have taken place in both major cities and smaller towns across Belarus</center></span>',
-    image: 'images/belarus-legend.png',
+    image: 'belarus-legend.png',
     description: '<center>Major demonstrations across Belarus have continued since the August 2020 election. Demonstrators have expressed anger over the falsification of election results and have demanded the resignation of President Lukashenko. They have demanded new elections be held and the prosecution of members of the security services involved in violence against demonstrators. The Lukashenko regime has refused to give in to demands while brutally cracking down on demonstrators. It remains unclear whether Russia will continue to support Lukashenko in 2021, especially following months of political and economic turmoil.<br><br><b>The map to the right shows all protests and riots in Belarus during 2020.</b></center>',
     location: customMapPosition({
         center: [27.79373, 53.69264],
@@ -936,7 +936,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px;text-align:center; font-style:bold; color:black;"><center>Violence occurred outside the usual Lines of Contact</center></span>',
-            image: 'images/aa-legend.png',
+            image: 'aa-legend.png',
             description: '<center>Ceasefire violations between Armenia and Azerbaijan were stable throughout the first half of 2020, before spiking in July. War broke out in September in the disputed Artsakh (Nagorno-Karabakh) region. Forty-four days of fighting resulted in over 5,000 military and 100 civilian fatalities, displacement of tens of thousands, and destruction of urban infrastructure. The trilateral statement signed in November between Armenia, Azerbaijan, and Russia ended the war, major issues remain unresolved.<br><br><b>The map to the right shows organized political violence events (Battles, Explosions/Remote violence, Violence against civilians) in Armenia and Azerbaijan during 2020.The red dotted line represents a Line of Contact (LoC) in the conflict, while the black dotted line represents the borders of Soviet Nagorno-Karabakh.</b></center>',
             location: customMapPosition({
                 center: [44.99103, 40.17752],
@@ -1031,7 +1031,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span class="italics-heading"><center>Despite the Pandemic, Demonstrations in India and Pakistan Continued</center></span>',
-            image: 'images/india-pakistan-legend.png',
+            image: 'india-pakistan-legend.png',
             description: "<center>In India, demonstrations in January and February over the Citizenship Amendment Act waned due to the onset of the pandemic. Farmer demonstrations increased during the second half of 2020. In Pakistan, demonstrations were primarily organized supporting media freedom and opposing India's policies in J&K.<br><br><b>The map to the right shows all political disorder events in India and Pakistan during 2020.</b></center>",
             location: {
                 center: [73.71242, 24.22636],
@@ -1059,7 +1059,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px; text-align:center; font-style:bold; color:black;"><center>Activity Increased Along the Jammu & Kashmir Line of Control (LoC) in 2020</center></span>',
-            image: 'images/india-pakistan-jk-legend.png',
+            image: 'india-pakistan-jk-legend.png',
 			description: '<span style="color:black;background-color:white"><center>2020 was another tumultuous year for India and Pakistan, as relations plummeted amid increased clashes along the disputed Jammu and Kashmir (J&K) border. The spike in fighting made 2020 the most violent year for conflict between India and Pakistan since the beginning of ACLED coverage in 2016. India focused on deflecting opportunities for negotiation and tightening control of Kashmir, while promoting pro-Indian politics in the region. Pakistan responded by continuously casting doubt on the bilateral ceasefire agreement with India by highlighting Indian violations and human rights abuses in Kashmir at international diplomatic forums, as well as inciting violence near the Line of Control (LoC)<br><br><b>The map to the right shows organized political violence events (Battles, Explosions/Remote violence, Violence against civilians) involving Indian and Pakistani State Forces in the Azad Jammu and Kashmir administrative region in Pakistan and the Jammu and Kashmir administrative region in India during 2020.The red dotted line represents a disputed border. The Azad Jammu Kashmir and Jammu and Kashmir administrative regions are highlighted in light grey.</b></center></span>',
 			location: {
 				center: [74.43137, 33.88668],
@@ -1140,7 +1140,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px; text-align:center; font-style:bold; color:black;"><center>Increased fighting in Kayin State and Bago Region at the end of 2020</center></span>',
-            image: 'images/myanmar-legend.png',
+            image: 'myanmar-legend.png',
             description: '<center>Following the general elections on 8 November 2020 in Myanmar, fighting in Rakhine state and southern Chin state came to a sudden halt. Prior to the current cessation of fighting in Rakhine state and Chin state’s Paletwa township, conflict in the region between the United League of Arakan/Arakan Army (ULA/AA), an ethnic Rakhine group fighting for greater autonomy, and the military had been on the rise in 2020. As conflict in the west abated, clashes between the military and the Karen National Union/Karen National Liberation Army (KNU/KNLA) increased during December 2020 in the east in Kayin state. The clashes have continued into the new year in eastern Bago region. There is growing animosity between the two sides as the military continues with its road construction project in areas controlled by the KNU/KNLA. <br>On 1 February, the day the new parliament elected in November was scheduled to convene, the military — using the pretense of electoral fraud — carried out early morning raids detaining elected NLD officials, as well as a number of prominent political activists. A state of emergency was declared for one year and the military announced that it would reconstitute the Union Election Commission and eventually hold new elections. This has sparked mass demonstrations throughout the country.<br>As 2021 progresses, in addition to the likelihood of increased disorder resulting from the military coup, the threat that dormant armed conflicts could reignite remains. No political solution to the conflict in Rakhine state has been achieved. Many ethnic Rakhine and Chin villagers remain displaced, not to mention the many thousands of Rohingya refugees still languishing in camps in Bangladesh. There are troubling signs that conflict in Kayin state could intensify while fighting between Shan and Ta’ang rebel groups continues in Shan state. The military’s decision to seize power has thrown any discussions of peace into doubt.<br><br><b>The map to the right shows all political disorder events in Myanmar during 2020.</b></center>',
             location: {
                 center: [94.65675, 20.25948],
