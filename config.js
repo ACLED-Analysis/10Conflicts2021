@@ -27,9 +27,9 @@ var config = {
     theme: 'light',
     use3dTerrain: false,
     title: '<h1 style="background-color: white; opacity: 0.9;font-size:200px; font-style:bold; margin-top:25px; margin-bottom:0px; color: black; line-height: 200px;">10 Conflicts</h1> <h1 style="font-size:80px; margin-left:200px; text-align:center; padding-right:20px; background-color: #C95200; font-style:italic; margin-top:5px; line-height:100px; margin-bottom:0px;">to Worry About in 2021</h1>',
-    subtitle: '<center>As political violence continues to erupt worldwide, ACLED reports on 10 conflicts worth watching in 2021.<br><i>For best viewing conditions, please view the map fullscreen in at least 1024x768 resolution on a 13" display or greater</i></center>',
-    byline: 'Produced by ACLED Research Analyst Josh Satre with assistance from Curtis Goos and Adam Miller. <i/>Based on ACLED report <a href="https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/">10 Conflicts to Worry About in 2021</a></i>',
-    footer: 'Source: © ACLED 2021 Data can be found here: <a href="www.acleddata.com">www.acleddata.com</a> This is based on the ACLED report located here:<a href="https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/">https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/</a>',
+    subtitle: '<center>An interactive review of our special report on 10 conflicts that are likely to worsen or evolve over the course of the year.<br><i>For the best experience, please view in fullscreen at a 1024x768 resolution or higher.</i></center>',
+    byline: 'Produced by ACLED Research Analyst Josh Satre with assistance from Curtis Goos and Adam Miller. <i/>Based on the ACLED special report: <a href="https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/">10 Conflicts to Worry About in 2021</a></i>',
+    footer: 'Source: ©ACLED 2021 Access all ACLED data here: <a href="www.acleddata.com">www.acleddata.com</a> Access the full report here:<a href="https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/">https://acleddata.com/2021/02/02/ten-conflicts-to-worry-about-in-2021/</a>',
 
  // Sections begin
 
@@ -318,7 +318,7 @@ var config = {
             hidden: false,
             title: '<span style="font-size:50px; line-height:60px; text-align:center; font-style:bold; color:black;"><center>Gangs have committed over 75% of all violence against civilians events and are responsible for nearly 90% of all reported civilian fatalities.</center></span>',
             image: 'images/haiti-1-legend.png',
-            description: '<center>Gang violence largely concentrated in impoverished neighborhoods in the capital, Port-au-Prince, is increasing as gangs continue to serve to secure local support for political elites in exchange for resources and impunity from the law. President Jovenel Moise has been suspected of supporting gangs while attempting to further consolidate political control. Recently he has allegedly supported the G-9 gang coalition implicated in over a quarter of gang-related violence against civilians events.Lawyers, journalists, and members of the political opposition have been subject to targeted killings by gangs allegedly affiliated with President Moise.<br><br><b>The map to the right shows violence against civilians events in Haiti during 2020.</b></center>',
+            description: '<center>Gang violence largely concentrated in impoverished neighborhoods in the capital, Port-au-Prince, is increasing as gangs continue to secure local support for political elites in exchange for resources and impunity from the law. President Jovenel Moise has been suspected of supporting gangs while attempting to further consolidate political control. Recently he has allegedly supported the G-9 gang coalition implicated in over a quarter of gang-related violence against civilians events.Lawyers, journalists, and members of the political opposition have been subject to targeted killings by gangs allegedly affiliated with President Moise.<br><br><b>The map to the right shows violence against civilians events in Haiti during 2020.</b></center>',
             location: {
                 center: [-74.03182, 18.99171],
                 zoom: 7.00,
